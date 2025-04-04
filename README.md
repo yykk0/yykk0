@@ -20,13 +20,9 @@ Here are some ideas to get you started:
 ---
 取る予定
 - 情報セキュリティマネジメント
+- PHP技術者試験上級
 - 応用情報
 - AWSアソシエイト
-- Oracle Gold
 - LPIC レベル2
 - Cloud Engineer
 - ITIL Strategic Leader
-
-- IPAの上位資格
-- AWSプロフェッショナル
-- LPIC レベル3 
