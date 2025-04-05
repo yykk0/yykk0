@@ -16,13 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ### 資格
+- 情報セキュリティマネジメント（2025/04）
 
 ---
 取る予定
-- 情報セキュリティマネジメント
 - PHP技術者試験上級
 - 応用情報
 - AWSアソシエイト
-- LPIC レベル2
 - Cloud Engineer
-- ITIL Strategic Leader
