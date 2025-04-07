@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 - 応用情報
 - AWSアソシエイト
 - Cloud Engineer
+- Cloud Digital Leader
+- AWSクラウドプラクティショナー
